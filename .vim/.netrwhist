@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/afs/desy.de/user/y/yyusa/.ssh'
+let g:netrw_dirhist_2='/afs/desy.de/user/y/ywang/Documents'
+let g:netrw_dirhist_3='/pnfs/desy.de/ilc/prod/ilc/mc-dbd.log'
+let g:netrw_dirhist_4='/pnfs/desy.de/ilc/prod/ilc/mc-dbd.log/generated'
+let g:netrw_dirhist_5='/afs/desy.de/user/y/ywang/bin_self'
