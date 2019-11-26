@@ -1,0 +1,22 @@
+[user]
+	name = YancyW
+	email = wang_yancy@outlook.com
+[alias]
+	co = checkout
+	lg = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --date=relative
+	psr = push origin release 
+	psm = push origin master
+	psd = push origin develop 
+	psf = push origin feature 
+
+	plr = pull origin release 
+	plm = pull origin master
+	pld = pull origin develop 
+	plf = pull origin feature 
+
+	ci = commit
+	st = status
+	br = branch
+	ci = commit
+[core]
+	editor = vim
